@@ -1,2 +1,3 @@
 # Bulk-Certificate-Generation-VBA
-Automated bulk certificate generation using Excel VBA and Microsoft Word.
+This project automates the generation of training certificates using Excel VBA and Microsoft Word.
+The solution reads candidate data from Excel, replaces placeholders in a Word certificate template, and generates individual PDF certificates automatically.
